@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AGHelperSwift_Example' do
+  pod 'AGHelperSwift', :path => '../'
+
+  target 'AGHelperSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
