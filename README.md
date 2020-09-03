@@ -10,7 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 <p align="center"> 
-<img src="https://github.com/dev-iayush27/AGHelperSwift/blob/master/Example/Screenshot/cardViewAndGradients.png" width="281" height="609">
+<img src="https://github.com/dev-iayush27/AGHelperSwift/blob/master/Example/Screenshots/cardViewAndGradients.png" width="281" height="609">
 </p>
 
 ## Requirements
