@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## AGHelperSwift
 
-Copyright (c) 2020 dev.iayush27@gmail.com <ayush@day1tech.com>
+Copyright (c) 2020 Ayush Gupta <dev.iayush27@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
