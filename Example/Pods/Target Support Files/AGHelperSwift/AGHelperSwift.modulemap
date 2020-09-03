@@ -1,0 +1,6 @@
+framework module AGHelperSwift {
+  umbrella header "AGHelperSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

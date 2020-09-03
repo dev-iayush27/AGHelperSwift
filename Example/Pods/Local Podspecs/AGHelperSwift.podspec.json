@@ -1,0 +1,22 @@
+{
+  "name": "AGHelperSwift",
+  "version": "0.1.0",
+  "summary": "A short description of AGHelperSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dev.iayush27@gmail.com/AGHelperSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dev.iayush27@gmail.com": "ayush@day1tech.com"
+  },
+  "source": {
+    "git": "https://github.com/dev.iayush27@gmail.com/AGHelperSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AGHelperSwift/Classes/**/*"
+}

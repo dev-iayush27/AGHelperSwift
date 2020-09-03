@@ -9,7 +9,17 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+<p align="center"> 
+<img src="https://github.com/dev-iayush27/AGHelperSwift/blob/master/Example/Screenshot/cardViewAndGradients.png" width="281" height="609">
+</p>
+
 ## Requirements
+
+```ruby
+- iOS 12 or Later
+- Swift 5.x
+- Xcode 11.x
+```
 
 ## Installation
 
@@ -20,10 +30,17 @@ it, simply add the following line to your Podfile:
 pod 'AGHelperSwift'
 ```
 
+Import it in the ViewController you want it to work:
+
+```ruby
+import AGHelperSwift
+```
+
 ## Author
 
-dev.iayush27@gmail.com, ayush@day1tech.com
+Ayush Gupta (dev.iayush27@gmail.com)
 
 ## License
 
 AGHelperSwift is available under the MIT license. See the LICENSE file for more info.
+

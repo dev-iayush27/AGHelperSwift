@@ -1,0 +1,16 @@
+PODS:
+  - AGHelperSwift (0.1.0)
+
+DEPENDENCIES:
+  - AGHelperSwift (from `../`)
+
+EXTERNAL SOURCES:
+  AGHelperSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AGHelperSwift: 60ad0a0a4ba879545aaac5860d1dfff3eb5870c5
+
+PODFILE CHECKSUM: 60cf6c97c60ff06bb3878d9931b7e2496c23a11d
+
+COCOAPODS: 1.10.0.beta.2

@@ -1,0 +1,6 @@
+framework module Pods_AGHelperSwift_Example {
+  umbrella header "Pods-AGHelperSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
